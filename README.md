@@ -4,10 +4,6 @@
 
 This project analyzes data from the National Health Interview Survey (NHIS) to study the prevalence and impact of co-occurring chronic pain and anxiety/depression among U.S. adults from 2019 to 2021. The analysis aims to provide insights into how these conditions affect functional limitations, general health status, and healthcare utilization.
 
-## Data 
-
-The data used in this project is sourced from the NHIS datasets for the years 2019 to 2021. The NHIS provides nationally representative data on the health status, healthcare access, and health behaviors of the U.S. civilian, noninstitutionalized population.
-
 ## Key Findings
 
 - **Prevalence:** The study found that 8.3% of U.S. adults experienced both chronic pain and anxiety/depression during the study period.
